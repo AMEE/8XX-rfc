@@ -24,7 +24,7 @@ Inspired by https://github.com/joho/7XX-rfc
    - 821 HUMANITY DEPRECATED
    - 822 CHIMPS TAKE OVER
    - 823 VENUS SYNDROME
-   - 824 MAXIPOK ZERO
+   - 824 [MAXIPOK ZERO](http://www.existential-risk.org/concept.pdf)
    - 825 VACUUM COLLAPSE
  * 83x Success:
    - 831 SINGULARITY; SERVER ASCENDED DURING REQUEST
