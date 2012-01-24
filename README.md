@@ -26,5 +26,6 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
    - 823 VENUS SYNDROME
    - 824 [MAXIPOK ZERO](http://www.existential-risk.org/concept.pdf)
    - 825 VACUUM COLLAPSE
+   - 826 ZOMBIE APOCALYPSE
  * 83x Success:
    - 831 SINGULARITY; SERVER ASCENDED DURING REQUEST
