@@ -29,3 +29,8 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
    - 826 ZOMBIE APOCALYPSE
  * 83x Success:
    - 831 SINGULARITY; SERVER ASCENDED DURING REQUEST
+ * 84x XIAA
+   - 841 ALL YOUR DNS ARE BELONG TO US
+   - 842 METALLICA NOT FOUND
+ * 86x Geology
+   - 861 YELLOWSTONE CALDERA
