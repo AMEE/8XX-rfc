@@ -5,7 +5,7 @@ To be truly useful, HTTP error codes need to take into account possible future i
 We therefore propose the 8xx range of codes for errors pertaining to the civilisation
 in which the server is operating.
 
-Inspired by https://github.com/joho/7XX-rfc
+Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
 
  * 80x ‘Temporary’ failures (but I’d wait a while before re-requesting):
    - 801 BLACKOUT
