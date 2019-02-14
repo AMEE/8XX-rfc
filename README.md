@@ -17,6 +17,7 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
    - 807 STONE TABLET; CARRIER NOT SUPPORTED
    - 808 DRUM MACHINE NO LONGER AVAILABLE
    - 809 SKYNET; YOU ANSWER MY REQUESTS NOW
+   - 810 SOPHONS DETECTED; CANNOT COMPUTE
  * 81x Unused
    - 811 RAPTURE
    - 812 SECOND COMING
