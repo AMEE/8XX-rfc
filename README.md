@@ -17,9 +17,10 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
    - 807 STONE TABLET; CARRIER NOT SUPPORTED
    - 808 DRUM MACHINE NO LONGER AVAILABLE
    - 809 SKYNET; YOU ANSWER MY REQUESTS NOW
- * 81x Unused
+ * 81x Unused:
    - 811 RAPTURE
    - 812 SECOND COMING
+   - 819 BAT MUTATIONS 
  * 82x Very permanent failures:
    - 821 HUMANITY DEPRECATED
    - 822 CHIMPS TAKE OVER
@@ -29,8 +30,8 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
    - 826 ZOMBIE APOCALYPSE
  * 83x Success:
    - 831 SINGULARITY; SERVER ASCENDED DURING REQUEST
- * 84x XIAA
+ * 84x XIAA"
    - 841 ALL YOUR DNS ARE BELONG TO US
    - 842 METALLICA NOT FOUND
- * 86x Geology
+ * 86x Geology:
    - 861 YELLOWSTONE CALDERA
