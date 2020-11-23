@@ -20,6 +20,7 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
  * 81x Unused
    - 811 RAPTURE
    - 812 SECOND COMING
+   - 813 SYNDEMIC; SYSTEMS-THINKING DENIED  
  * 82x Very permanent failures:
    - 821 HUMANITY DEPRECATED
    - 822 CHIMPS TAKE OVER
